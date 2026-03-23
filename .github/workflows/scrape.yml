@@ -2,7 +2,6 @@ name: Scrape & Deploy
 
 on:
   schedule:
-    # Run every Monday at 06:00 UTC
     - cron: '0 6 * * 1'
   workflow_dispatch:
 
@@ -42,17 +41,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref }}
+          ref: main
 
-      - name: Pull latest data
-        run: git pull origin ${{ github.ref_name }}
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
+      - name: Pull latest changes
+        run: git pull origin main
 
       - name: Copy data to docs
-        run: |
-          cp -r data docs/data
+        run: cp -r data docs/data
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
