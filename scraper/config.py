@@ -1,0 +1,165 @@
+"""Scraper configuration: brand definitions, URLs, and settings."""
+
+import os
+
+DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
+IMAGE_DIR = os.path.join(DATA_DIR, "images")
+
+REQUEST_TIMEOUT = 30
+REQUEST_DELAY = (2, 5)  # random delay range in seconds between requests
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/125.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+}
+
+BRANDS = {
+    "mini_gt": {
+        "name": "Mini GT",
+        "full_name": "Mini GT (TSM Model)",
+        "country": "中国香港",
+        "founded": "2018",
+        "website": "https://minigt.com",
+        "description": "由TSM Model推出的1/64合金车模品牌，以高精度还原和丰富车型著称，涵盖超跑、赛车、经典车等。",
+        "logo": "",
+        "catalog_url": "https://minigt.com/index.php?action=product-list",
+        "specialty": ["超级跑车", "赛车", "经典车型", "联名合作款"],
+    },
+    "tarmac_works": {
+        "name": "Tarmac Works",
+        "full_name": "Tarmac Works",
+        "country": "中国香港",
+        "founded": "2014",
+        "website": "https://www.tarmacworks.com",
+        "description": "专注于赛车文化和改装文化的1/64品牌，以高品质赛车涂装和联名款闻名。",
+        "logo": "",
+        "catalog_url": "https://www.tarmacworks.com/collections/1-64-scale",
+        "specialty": ["赛车涂装", "改装文化", "联名合作", "限量版"],
+    },
+    "inno64": {
+        "name": "INNO64",
+        "full_name": "INNO64 (Inno Models)",
+        "country": "中国香港",
+        "founded": "2016",
+        "website": "https://www.inno-models.com",
+        "description": "由汽车爱好者创立的精品1/64品牌，擅长日系经典车型如Skyline GT-R、Civic等，部分车型带有开门功能。",
+        "logo": "",
+        "catalog_url": "https://www.inno64model.com/shop/",
+        "specialty": ["日系经典车", "JDM文化", "可开门设计", "限量版"],
+    },
+    "era_car": {
+        "name": "Era Car",
+        "full_name": "Era Car (Era Myth Group)",
+        "country": "中国香港",
+        "founded": "2019",
+        "website": "https://eramyth.com",
+        "description": "专注于城市服务车辆和日常车型的1/64品牌，所有车型至少带一个可开启部件，细节精良。",
+        "logo": "",
+        "catalog_url": "https://eramyth.com",
+        "specialty": ["城市服务车辆", "警车消防车", "日常车型", "可开启部件"],
+    },
+    "hot_wheels": {
+        "name": "Hot Wheels",
+        "full_name": "Hot Wheels (Mattel)",
+        "country": "美国",
+        "founded": "1968",
+        "website": "https://www.hotwheels.com",
+        "description": "全球最知名的1/64合金车品牌，由美泰公司生产，以丰富的车型、夸张的设计和轨道玩具闻名全球。",
+        "logo": "",
+        "catalog_url": "https://www.hotwheels.com",
+        "specialty": ["轨道玩具", "幻想车型", "授权车型", "收藏家系列"],
+    },
+    "matchbox": {
+        "name": "Matchbox",
+        "full_name": "Matchbox (Mattel)",
+        "country": "英国/美国",
+        "founded": "1953",
+        "website": "https://matchbox.com",
+        "description": "历史最悠久的小比例合金车品牌之一，以真实还原各类车型著称，近年推出环保材质系列。",
+        "logo": "",
+        "catalog_url": "https://matchbox.com",
+        "specialty": ["真实还原", "经典车型", "工程车辆", "环保系列"],
+    },
+    "tomica": {
+        "name": "Tomica",
+        "full_name": "Tomica (Takara Tomy)",
+        "country": "日本",
+        "founded": "1970",
+        "website": "https://www.takaratomy.co.jp/products/tomica/",
+        "description": "日本最具代表性的1/64合金车品牌，以日系车型为主，细节精良，旗下Tomica Limited Vintage系列深受收藏家喜爱。",
+        "logo": "",
+        "catalog_url": "https://www.takaratomy.co.jp/products/tomica/lineup/",
+        "specialty": ["日系车型", "Limited Vintage", "城市场景", "精密细节"],
+    },
+    "johnny_lightning": {
+        "name": "Johnny Lightning",
+        "full_name": "Johnny Lightning (Round 2)",
+        "country": "美国",
+        "founded": "1969",
+        "website": "https://johnny-lightning.com",
+        "description": "美国经典1/64品牌，擅长美系肌肉车和经典车型还原，在收藏圈有很高人气。",
+        "logo": "",
+        "catalog_url": "https://johnny-lightning.com",
+        "specialty": ["美系肌肉车", "经典老车", "限量白闪电", "收藏系列"],
+    },
+    "majorette": {
+        "name": "Majorette",
+        "full_name": "Majorette (Smoby Toys / Simba Dickie)",
+        "country": "法国/泰国",
+        "founded": "1961",
+        "website": "https://www.majorette.com",
+        "description": "法国老牌合金车品牌，现由Simba Dickie集团运营，产品线丰富，性价比高。",
+        "logo": "",
+        "catalog_url": "https://www.majorette.com",
+        "specialty": ["欧洲车型", "性价比", "丰富产品线", "主题套装"],
+    },
+    "siku": {
+        "name": "SIKU",
+        "full_name": "SIKU (Sieper GmbH)",
+        "country": "德国",
+        "founded": "1950",
+        "website": "https://www.siku.de",
+        "description": "德国老牌合金车品牌，以工程车辆和农业机械闻名，做工扎实，比例涵盖1/64至1/87。",
+        "logo": "",
+        "catalog_url": "https://www.siku.de",
+        "specialty": ["工程车辆", "农业机械", "德国品质", "合金材质"],
+    },
+    "kaido_house": {
+        "name": "KAIDO HOUSE",
+        "full_name": "KAIDO HOUSE x Mini GT",
+        "country": "美国/中国香港",
+        "founded": "2020",
+        "website": "https://www.kaidohouse.com",
+        "description": "KAIDO HOUSE与Mini GT联名打造的改装风格1/64系列，以日系街道赛车改装文化为核心。",
+        "logo": "",
+        "catalog_url": "https://www.kaidohouse.com",
+        "specialty": ["改装文化", "日系街车", "联名Mini GT", "限量系列"],
+    },
+    "pop_race": {
+        "name": "Pop Race",
+        "full_name": "Pop Race",
+        "country": "中国香港",
+        "founded": "2020",
+        "website": "https://poprace.com",
+        "description": "新兴1/64品牌，专注于流行文化与汽车的跨界合作，车型选择独特前卫。",
+        "logo": "",
+        "catalog_url": "https://poprace.com",
+        "specialty": ["流行文化", "跨界合作", "前卫设计", "新兴品牌"],
+    },
+    "green_light": {
+        "name": "GreenLight",
+        "full_name": "GreenLight Collectibles",
+        "country": "美国",
+        "founded": "2002",
+        "website": "https://www.greenlighttoys.com",
+        "description": "美国知名1/64收藏品牌，以影视授权车型和Chase绿色轮毂限量版闻名。",
+        "logo": "",
+        "catalog_url": "https://www.greenlighttoys.com/product-category/1-64/",
+        "specialty": ["影视授权", "Chase限量版", "好莱坞系列", "警车系列"],
+    },
+}

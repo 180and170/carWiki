@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CarWiki - 1/64 合金车模百科</title>
+  <meta name="description" content="收录国内外主流1/64比例合金车模品牌数据，包括Mini GT、Tarmac Works、INNO64、Tomica等品牌产品信息。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="header-inner">
+        <div class="logo">
+          <span class="logo-icon">&#128663;</span>
+          <h1>CarWiki</h1>
+          <span class="logo-subtitle">1/64 合金车模百科</span>
+        </div>
+        <nav class="nav">
+          <a href="#brands" class="nav-link active" data-section="brands">品牌总览</a>
+          <a href="#products" class="nav-link" data-section="products">产品目录</a>
+          <a href="#about" class="nav-link" data-section="about">关于</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2 class="hero-title">探索 1/64 合金车模的世界</h2>
+      <p class="hero-desc">
+        收录 <span id="brand-count">0</span> 个品牌，<span id="product-count">0</span> 款产品数据
+      </p>
+      <p class="hero-update">数据更新时间：<span id="last-updated">加载中...</span></p>
+    </div>
+  </section>
+
+  <main class="main">
+    <div class="container">
+
+      <!-- Brands Section -->
+      <section id="brands" class="section">
+        <h2 class="section-title">品牌总览</h2>
+        <div class="brand-filters">
+          <button class="filter-btn active" data-region="all">全部</button>
+          <button class="filter-btn" data-region="中国香港">中国香港</button>
+          <button class="filter-btn" data-region="美国">美国</button>
+          <button class="filter-btn" data-region="日本">日本</button>
+          <button class="filter-btn" data-region="欧洲">欧洲</button>
+        </div>
+        <div id="brands-grid" class="brands-grid">
+          <div class="loading">加载品牌数据中...</div>
+        </div>
+      </section>
+
+      <!-- Products Section -->
+      <section id="products" class="section" style="display:none;">
+        <h2 class="section-title">产品目录</h2>
+        <div class="products-toolbar">
+          <div class="search-box">
+            <input type="text" id="search-input" placeholder="搜索产品名称...">
+          </div>
+          <div class="brand-select-wrap">
+            <select id="brand-select">
+              <option value="all">所有品牌</option>
+            </select>
+          </div>
+        </div>
+        <div id="products-grid" class="products-grid">
+          <div class="loading">加载产品数据中...</div>
+        </div>
+        <div id="load-more-wrap" class="load-more-wrap" style="display:none;">
+          <button id="load-more-btn" class="btn btn-outline">加载更多</button>
+        </div>
+        <div id="no-results" class="no-results" style="display:none;">
+          未找到匹配的产品
+        </div>
+      </section>
+
+      <!-- About Section -->
+      <section id="about" class="section" style="display:none;">
+        <h2 class="section-title">关于 CarWiki</h2>
+        <div class="about-content">
+          <div class="about-card">
+            <h3>项目介绍</h3>
+            <p>CarWiki 是一个开源的 1/64 比例合金车模数据聚合项目。我们通过自动化爬虫从各大品牌官网采集产品数据，并以美观直观的方式呈现给车模爱好者。</p>
+          </div>
+          <div class="about-card">
+            <h3>数据来源</h3>
+            <p>所有数据均来自各品牌官方网站的公开信息。爬虫遵循 robots.txt 协议，并设置了合理的请求间隔以减少对源站的负载。</p>
+          </div>
+          <div class="about-card">
+            <h3>技术架构</h3>
+            <ul>
+              <li><strong>爬虫：</strong>Python + BeautifulSoup + Requests</li>
+              <li><strong>前端：</strong>原生 HTML/CSS/JavaScript</li>
+              <li><strong>部署：</strong>GitHub Pages（静态托管）</li>
+              <li><strong>自动化：</strong>GitHub Actions 定时触发爬虫</li>
+            </ul>
+          </div>
+          <div class="about-card">
+            <h3>收录品牌</h3>
+            <div id="about-brand-list"></div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2026 CarWiki - 1/64 合金车模百科 | 数据来自各品牌官方网站</p>
+      <p>
+        <a href="https://github.com" target="_blank">GitHub</a>
+      </p>
+    </div>
+  </footer>
+
+  <!-- Brand Detail Modal -->
+  <div id="brand-modal" class="modal" style="display:none;">
+    <div class="modal-overlay"></div>
+    <div class="modal-content">
+      <button class="modal-close">&times;</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
