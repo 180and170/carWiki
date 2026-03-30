@@ -5,7 +5,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/all-terrain-300x300.jpg",
+    "image": "data/images/green_light/3f5be94f721d.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/all-terrain-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/all-terrain/",
     "description": "GreenLight 1:64 All Terrain series"
@@ -16,7 +16,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/gl-collectibles-sm-300x300.jpg",
+    "image": "data/images/green_light/1216a5c60156.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/gl-collectibles-sm-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/anniversary-collection/",
     "description": "GreenLight 1:64 Anniversary Collection series"
@@ -27,7 +27,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/barrett-jackson-300x300.jpg",
+    "image": "data/images/green_light/a68f147fe85e.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/barrett-jackson-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/barrett-jackson/",
     "description": "GreenLight 1:64 Barrett Jackson series"
@@ -38,7 +38,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/battalion64-300x300.jpg",
+    "image": "data/images/green_light/d6c33a7f6a03.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/battalion64-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/battalion-64/",
     "description": "GreenLight 1:64 Battalion 64 series"
@@ -49,7 +49,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/black-bandit-300x300.jpg",
+    "image": "data/images/green_light/cb531068daa6.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/black-bandit-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/black-bandit/",
     "description": "GreenLight 1:64 Black Bandit series"
@@ -60,7 +60,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/blue-collar-300x300.jpg",
+    "image": "data/images/green_light/a7dded19b67a.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/blue-collar-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/blue-collar-collection/",
     "description": "GreenLight 1:64 Blue Collar Collection series"
@@ -71,7 +71,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/busted-knuckle-garage-300x300.jpg",
+    "image": "data/images/green_light/a7644af524ff.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/busted-knuckle-garage-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/busted-knuckle-garage/",
     "description": "GreenLight 1:64 Busted Knuckle Garage series"
@@ -82,7 +82,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/california-lowriders-300x300.jpg",
+    "image": "data/images/green_light/3f6fc9d4ca02.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/california-lowriders-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/california-lowriders/",
     "description": "GreenLight 1:64 California Lowriders series"
@@ -93,7 +93,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/club-vee-dub-300x300.jpg",
+    "image": "data/images/green_light/5479086678ea.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/club-vee-dub-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/club-vee-dub/",
     "description": "GreenLight 1:64 Club Vee Dub series"
@@ -104,7 +104,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/detroit-speed-inc-300x300.jpg",
+    "image": "data/images/green_light/47ee78bd6061.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/detroit-speed-inc-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/detroit-speed-inc/",
     "description": "GreenLight 1:64 Detroit Speed Inc series"
@@ -115,7 +115,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/down-on-the-farm-300x300.jpg",
+    "image": "data/images/green_light/5a4b0236c74e.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/down-on-the-farm-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/down-on-the-farm/",
     "description": "GreenLight 1:64 Down On The Farm series"
@@ -126,7 +126,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/dually-drivers-300x300.jpg",
+    "image": "data/images/green_light/3cf96a1b38bc.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/dually-drivers-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/dually-drivers/",
     "description": "GreenLight 1:64 Dually Drivers series"
@@ -137,7 +137,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/estate-wagons-300x300.jpg",
+    "image": "data/images/green_light/c3a5687abf1e.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/estate-wagons-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/estate-wagons/",
     "description": "GreenLight 1:64 Estate Wagons series"
@@ -148,7 +148,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/fire-and-rescue-300x300.jpg",
+    "image": "data/images/green_light/87474f053907.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/fire-and-rescue-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/fire-and-rescue/",
     "description": "GreenLight 1:64 Fire And Rescue series"
@@ -159,7 +159,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/logo-coming-soon-300x300.png",
+    "image": "data/images/green_light/263a842f87b3.png",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/logo-coming-soon-300x300.png",
     "url": "https://www.greenlighttoys.com/product/first-responders/",
     "description": "GreenLight 1:64 First Responders series"
@@ -170,7 +170,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/03/four-post-lifts-300x300.jpg",
+    "image": "data/images/green_light/f5400b1f4e0c.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/03/four-post-lifts-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/four-post-lifts/",
     "description": "GreenLight 1:64 Four Post Lifts series"
@@ -181,7 +181,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/garbage-pail-kids-300x300.jpg",
+    "image": "data/images/green_light/5553dae649b3.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/garbage-pail-kids-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/garbage-pail-kids/",
     "description": "GreenLight 1:64 Garbage Pail Kids series"
@@ -192,7 +192,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/gl-muscle-copy-300x300.jpg",
+    "image": "data/images/green_light/1cb6a687a1ed.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/gl-muscle-copy-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/greenlight-muscle/",
     "description": "GreenLight 1:64 Greenlight Muscle series"
@@ -203,7 +203,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hd-trucks-300x300.jpg",
+    "image": "data/images/green_light/b22787e7425f.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hd-trucks-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/h-d-trucks/",
     "description": "GreenLight 1:64 H D Trucks series"
@@ -214,7 +214,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hitch-and-tow-300x300.jpg",
+    "image": "data/images/green_light/fec003b56a3a.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hitch-and-tow-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/hitch-and-tow/",
     "description": "GreenLight 1:64 Hitch And Tow series"
@@ -225,7 +225,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hitched-homes-300x300.jpg",
+    "image": "data/images/green_light/7efc31b477f5.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hitched-homes-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/hitched-homes/",
     "description": "GreenLight 1:64 Hitched Homes series"
@@ -236,7 +236,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/03/hobby-exclusive-300x300.jpg",
+    "image": "data/images/green_light/1b5cfb3ea3a6.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/03/hobby-exclusive-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/hobby-exclusives/",
     "description": "GreenLight 1:64 Hobby Exclusives series"
@@ -247,7 +247,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hollywood-300x300.jpg",
+    "image": "data/images/green_light/9d5590805673.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hollywood-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/hollywood/",
     "description": "GreenLight 1:64 Hollywood series"
@@ -258,7 +258,7 @@
     "brand": "GreenLight",
     "scale": "1/64",
     "price": "",
-    "image": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hollywood-hitch-and-tow-300x300.jpg",
+    "image": "data/images/green_light/3e1a34d1b659.jpg",
     "image_url": "https://www.greenlighttoys.com/wp-content/uploads/2021/04/hollywood-hitch-and-tow-300x300.jpg",
     "url": "https://www.greenlighttoys.com/product/hollywood-hitch-and-tow/",
     "description": "GreenLight 1:64 Hollywood Hitch And Tow series"
