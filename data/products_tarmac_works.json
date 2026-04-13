@@ -1,14 +1,102 @@
 [
   {
-    "name": "1/64 VERTEX Toyota Soarer JZZ30 White - Tarmac Works GLOBAL64",
-    "sku": "T64G-080-WH",
+    "name": "1/64 Datsun Bluebird 510 Wagon OHIGE no PON - Tarmac Works GLOBAL64",
+    "sku": "T64G-026-ONP",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/afabb690ec41.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-026-ONP_M03_2.jpg?v=1774506858",
+    "url": "https://www.tarmacworks.com/products/1-64-datsun-bluebird-510-wagon-ohige-no-pon-tarmac-works-global64",
+    "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper box packagingFully licensed product"
+  },
+  {
+    "name": "1/64 Mercedes-Benz AMG GT Black Series Green - Tarmac Works GLOBAL64",
+    "sku": "T64G-042-GR",
     "brand": "Tarmac Works",
     "scale": "1/64",
     "price": "$11.90",
-    "image": "data/images/tarmac_works/05bb3377474b.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-080-WH_M02.jpg?v=1772096734",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-vertex-toyota-soarer-jzz30-white-global64",
-    "description": "New ToolingChase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper box packagingFully licensed product"
+    "image": "data/images/tarmac_works/89a7813b8c7e.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-042-GR_M02.jpg?v=1774506724",
+    "url": "https://www.tarmacworks.com/products/1-64-mercedes-benz-amg-gt-black-series-green-tarmac-works-global64",
+    "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper box packagingFully licensed product"
+  },
+  {
+    "name": "1/64 Porsche 911 GT3 (type 996) Yellow - Tarmac Works X iXO Models GLOBAL64",
+    "sku": "T64G-069-YL",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$11.90",
+    "image": "data/images/tarmac_works/cc501c470f18.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-069-YL_M01.jpg?v=1774506395",
+    "url": "https://www.tarmacworks.com/products/1-64-porsche-911-gt3-type-996-yellow-tarmac-works-global64",
+    "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper box packagingFully licensed product"
+  },
+  {
+    "name": "1/64 McLaren MCL60 British Grand Prix 2023 Lando Norris - Tarmac Works X iXO Models GLOBAL64",
+    "sku": "T64G-F070-LN2",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/c648fea0b360.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-F070-LN2_M01.jpg?v=1774506138",
+    "url": "https://www.tarmacworks.com/products/1-64-mclaren-mcl60-british-grand-prix-2023-lando-norris-tarmac-works-global64",
+    "description": "Decal Stickers Included1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsWith pit boardsFree rolling wheelsPaper box packagingFully licensed product"
+  },
+  {
+    "name": "1/64 Lancia Delta HF Integrale Monte Carlo Rally 1992 #04 Winner Didier Auriol / Bernard Occelli - Tarmac Works HOBBY64",
+    "sku": "T64-049-92MCR04",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$21.90",
+    "image": "data/images/tarmac_works/b5fddb2e6b5b.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-049-92MCR04_M01.jpg?v=1774500417",
+    "url": "https://www.tarmacworks.com/products/1-64-lancia-delta-hf-integrale-monte-carlo-rally-1992-winner-didier-auriol-bernard-occelli-tarmac-works-hobby64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "Minichamps 1/64 McLaren Formula 1 Team MCL39 Lando Norris - Winner Australian GP 2025",
+    "sku": "530256404",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$29.90",
+    "image": "data/images/tarmac_works/c533e672c392.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/530256404_M03.jpg?v=1775105207",
+    "url": "https://www.tarmacworks.com/products/minichamps-1-64-mclaren-formula-1-team-mcl39-lando-norris-winner-australian-gp-2025",
+    "description": "1/64 scale die-castDetailed rims & rubber wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "Minichamps 1/64 McLaren Formula 1 Team MCL39 Oscar Piastri - Australian GP 2025",
+    "sku": "530256481",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$29.90",
+    "image": "data/images/tarmac_works/7a7a766a7d46.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/530256481_M01.jpg?v=1775105384",
+    "url": "https://www.tarmacworks.com/products/minichamps-1-64-mclaren-formula-1-team-mcl39-oscar-piastri-australian-gp-2025",
+    "description": "1/64 scale die-castDetailed rims & rubber wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "Minichamps 1/64 McLaren Formula 1 Team MCL39 Lando Norris - China GP 2025",
+    "sku": "530256504",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$29.90",
+    "image": "data/images/tarmac_works/569dabe42aa4.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/530256504_M02.jpg?v=1775114089",
+    "url": "https://www.tarmacworks.com/products/minichamps-1-64-mclaren-formula-1-team-mcl39-lando-norris-china-gp-2025",
+    "description": "1/64 scale die-castDetailed rims & rubber wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "Minichamps 1/64 McLaren Formula 1 Team MCL39 Oscar Piastri - Winner China GP 2025",
+    "sku": "530256581",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$29.90",
+    "image": "data/images/tarmac_works/aec82824e552.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/530256581_M02.jpg?v=1775114185",
+    "url": "https://www.tarmacworks.com/products/minichamps-1-64-mclaren-formula-1-team-mcl39-oscar-piastri-winner-china-gp-2025",
+    "description": "1/64 scale die-castDetailed rims & rubber wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
   {
     "name": "1/64 Koenigsegg Regera Silver Metallic / Blue Accents with Tarmac Cards Combo Set - Tarmac Works GLOBAL64",
@@ -218,17 +306,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-069-BL_M01_9d6f136e-9d4a-40c2-894f-e49972a5f16f.jpg?v=1767865343",
     "url": "https://www.tarmacworks.com/products/tarmac-works-x-ixo-models-1-64-porsche-911-gt3-type-996-light-blue-global64",
     "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
-  },
-  {
-    "name": "1/64 McLaren MCL60 Monaco Grand Prix 2023 Oscar Piastri - Tarmac Works X iXO Models GLOBAL64",
-    "sku": "T64G-F070-OP1",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$16.90",
-    "image": "data/images/tarmac_works/066a5190cfa3.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-F070-OP1_M01.jpg?v=1767865371",
-    "url": "https://www.tarmacworks.com/products/ttarmac-works-x-ixo-models-1-64-mclaren-mcl60-monaco-grand-prix-2023-oscar-piastri-global64",
-    "description": "Decal stickers included1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
   },
   {
     "name": "1/64 Honda Civic EG6 New York Sunshine - New York Sunshine Special Edition - Tarmac Works HOBBY64",
@@ -517,17 +594,6 @@
     "description": "USA Special Edition1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
   {
-    "name": "1/64 Porsche 959 Red - Tarmac Works X iXO Models GLOBAL64",
-    "sku": "T64G-068-RE",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$11.90",
-    "image": "data/images/tarmac_works/ef9b31399de3.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-068-RE_M02.jpg?v=1760432153",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-porsche-959-red-global64",
-    "description": "New ToolingChase Version will replace normal version in random orderLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper box packagingFully licensed product"
-  },
-  {
     "name": "1/64 VERTEX Silvia (S 14) Grey - Tarmac Works GLOBAL64",
     "sku": "T64G-018-GY",
     "brand": "Tarmac Works",
@@ -669,17 +735,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-083-00WCS54_M01.jpg?v=1758604538",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-ferrari-f355-challenge-world-challenge-series-2000-54-hobby64",
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-  },
-  {
-    "name": "1/64 Toyota Sprinter Trueno AE86 Widebody Black/Grey - Designed by Jon Sibal - Malaysia Special Edition - Tarmac Works GLOBAL64",
-    "sku": "T64G-060-BG (ST)",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$12.90",
-    "image": "data/images/tarmac_works/8a1eeb87e0c3.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-060-BG_M02.jpg?v=1756352602",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-sprinter-trueno-ae86-widebody-black-grey-malaysia-special-edition-global64",
-    "description": "Malaysia Special EditionChase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
   },
   {
     "name": "1/64 Mercedes-Benz 190 E 2.3-16 Race of Champion 1984 #11 - Tarmac Works GLOBAL64",
@@ -1023,17 +1078,6 @@
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed productProduct weight: 0.2kg"
   },
   {
-    "name": "1/64 Mercedes-Benz 190 E 2.5-16 EVO 1 TOYO TIRES - Tarmac Works GLOBAL64",
-    "sku": "T64G-057-TOYO",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$11.90",
-    "image": "data/images/tarmac_works/316b22af017e.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-057-TOYO_M03.jpg?v=1749443245",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-mercedes-benz-190-e-2-5-16-evo-1-toyo-tires-global64",
-    "description": "New ToolingChase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
-  },
-  {
     "name": "1/64 Porsche 911 GT3 (type 996) Silver - Tarmac Works X iXO Models GLOBAL64",
     "sku": "T64G-069-SL (ST)",
     "brand": "Tarmac Works",
@@ -1317,17 +1361,6 @@
     "image": "data/images/tarmac_works/ae1789866225.jpg",
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64MC-008-MG_M01.jpg?v=1773667210",
     "url": "https://www.tarmacworks.com/products/minichamps-x-tarmac-works-1-64-porsche-718-spyder-rs-mint-green-collab64",
-    "description": "Limited to 1776 pcs producedSpecial collaboration project with Minichamps1/64 scale die-castDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper boxFully licensed product"
-  },
-  {
-    "name": "1/64 Porsche 718 Spyder RS Racing Yellow - Tarmac Works X Minichamps COLLAB64",
-    "sku": "T64MC-008-RY",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$24.50",
-    "image": "data/images/tarmac_works/c58b6c75198a.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64MC-008-RY_M03.jpg?v=1773667230",
-    "url": "https://www.tarmacworks.com/products/minichamps-x-tarmac-works-1-64-porsche-718-spyder-rs-racing-yellow-collab64",
     "description": "Limited to 1776 pcs producedSpecial collaboration project with Minichamps1/64 scale die-castDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper boxFully licensed product"
   },
   {
@@ -1826,17 +1859,6 @@
     "description": "Chase version will be included in orders randomly1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed productTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits will be app"
   },
   {
-    "name": "1/64 Volvo 850 Estate Australian Super Touring Championship 1995 #11 - Tarmac Works HOBBY64",
-    "sku": "T64-039-95ASTC11 (ST)",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$21.90",
-    "image": "data/images/tarmac_works/b207ce47474d.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-039-95ASTC11_M01.jpg?v=1714104008",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-volvo-850-estate-australian-super-touring-championship-1995-tony-scott-hobby64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-  },
-  {
     "name": "1/64 Land Rover Defender 90 Trophy Edition - Tarmac Works GLOBAL64",
     "sku": "T64G-019-TE",
     "brand": "Tarmac Works",
@@ -2123,17 +2145,6 @@
     "description": "MIJO Exclusives1/64 scale die-castBlister packagingTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits will be applied on the next order after the purchase of the membership"
   },
   {
-    "name": "American Diorama 1/64 Figures Set - Motomania 6 - MIJO Exclusives",
-    "sku": "AD-76515MJ",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$7.90",
-    "image": "data/images/tarmac_works/8a93148cc8e4.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/AD-76515MJ.jpg?v=1684138110",
-    "url": "https://www.tarmacworks.com/products/american-diorama-1-64-figures-set-motomania-6-mijo-exclusives",
-    "description": "MIJO Exclusives1/64 scale die-castBlister packagingTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits will be applied on the next order after the purchase of the membership"
-  },
-  {
     "name": "1/64 Lancia 037 Rally Rally Costa Brava 1985 #4 - Tarmac Works HOBBY64+",
     "sku": "T64P-TL002-85RCB04(S",
     "brand": "Tarmac Works",
@@ -2208,17 +2219,6 @@
     "image": "data/images/tarmac_works/9a2349647a23.jpg",
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/products/AD-76508MJ.jpg?v=1671164595",
     "url": "https://www.tarmacworks.com/products/american-diorama-1-64-figures-set-santa-s-day-out-mijo-exclusives",
-    "description": "MIJO Exclusives1/64 scale die-castBlister packagingTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits will be applied on the next order after the purchase of the membership"
-  },
-  {
-    "name": "American Diorama 1/64 Figures Set - Hip Hop Girls - MIJO Exclusives",
-    "sku": "AD-76505MJ",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$7.90",
-    "image": "data/images/tarmac_works/c87b4c4395c2.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/products/AD-76505MJ.jpg?v=1671164485",
-    "url": "https://www.tarmacworks.com/products/american-diorama-1-64-figures-set-hip-hop-girls-mijo-exclusives",
     "description": "MIJO Exclusives1/64 scale die-castBlister packagingTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits will be applied on the next order after the purchase of the membership"
   },
   {
